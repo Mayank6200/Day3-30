@@ -16,4 +16,5 @@ jobs:
             distribution: 'temurin'
             cache: maven
     -   name: Build with maven
-        run: sh 'mvn clean install'
+        run: sh 'ls -l'
+             sh 'pwd'
