@@ -29,7 +29,7 @@ jobs:
     -   name: Run Tests
         run: mvn test
 
-## Pushing in to Docker Hub
+## Pushing in to DockerHub
 
 
     -   name: Setting up Docker
